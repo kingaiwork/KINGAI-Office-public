@@ -1,0 +1,9 @@
+{
+  "schema":"kingai.customer-knowledge-source.v1",
+  "project_id":"kingai-office",
+  "visibility":"public",
+  "language_order":["en","zh-CN"],
+  "customer_safe_paths":["README.md","BUSINESS.md","ROADMAP.md","llms.txt"],
+  "publish_policy":"Only bilingual public product facts, customer-facing usage/value statements, business direction and explicitly labeled roadmap content may become customer answers. Proprietary source, private implementation, credentials and security-sensitive details are never knowledge sources.",
+  "private_repository_access":false
+}
