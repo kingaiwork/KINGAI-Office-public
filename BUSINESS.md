@@ -1,51 +1,55 @@
-# KINGAI Office · Market & Partnership Direction
+# KINGAI Office — Business & Growth Opportunity
 
 ## English
 
-KINGAI Office sits at the intersection of everyday productivity, file compatibility, privacy-aware intelligence and cross-platform work.
+KINGAI Office sits at one of the highest-frequency points in digital life: the place where people create documents, analyze information, prepare presentations and review files. That frequency gives the product the potential to become both a daily utility and a long-term gateway into the wider KING AI ecosystem.
 
-### Who it can serve
+### Customer segments
 
-- individuals who want a simpler office suite;
-- students, creators and freelancers;
-- small teams that need familiar productivity tools;
-- organizations exploring private or local-first document intelligence;
-- education, device and distribution partners.
+- individuals and students seeking an accessible productivity suite;
+- professionals, creators and small businesses;
+- teams that want a more coherent AI-assisted work environment;
+- organizations evaluating private, governed or hybrid productivity options;
+- distribution and device partners looking for a broader productivity relationship.
+
+### Growth flywheel direction
+
+Accessible productivity → repeated daily use → account relationship → intelligent assistance → team workflows → enterprise deployment → deeper ecosystem adoption.
 
 ### Commercial paths
 
-Potential models include free core productivity, premium intelligent features, team/business editions, enterprise/private deployment, education programs, OEM/device distribution and document-workflow integrations.
+- free core productivity for discovery and adoption;
+- premium individual capabilities;
+- team collaboration and administration;
+- enterprise editions and support;
+- private/hybrid deployments;
+- embedded distribution, OEM and strategic partnerships;
+- future workflow and intelligent-agent extensions.
 
-### Why it can matter strategically
+### Product principle
 
-Office software creates daily usage and strong long-term retention. Within KING AI, KINGAI Office can become a natural place where memory, knowledge and intelligent assistance meet real documents and recurring work.
+The product should win first because it is useful as an office suite. AI should increase the value of that suite rather than become the only reason it exists.
 
-No revenue, customer-count or market-leadership claim is implied by these directions.
+### Integrity
 
-Contact: **vip@kingai.work**
+Future AI, collaboration, enterprise and distribution capabilities remain roadmap directions until publicly released and verified. No fabricated revenue, users, enterprise customers, market share, certifications or partnerships are presented here.
 
----
+## 中文
 
-# 中文
+KINGAI Office 位于数字生活中使用频率最高的场景之一：人们每天创建文档、分析数据、制作演示、阅读和审阅文件。高频使用意味着它不仅可以成为日常工具，也可以成为用户进入 KING AI 整体生态的重要入口。
 
-KINGAI Office 位于**日常办公、文件兼容、隐私友好智能和跨平台生产力**的交汇点。
+### 目标客户
 
-### 适用用户
+- 个人用户与学生；
+- 专业人士、创作者和小型企业；
+- 希望使用更统一 AI 办公环境的团队；
+- 关注私有化、治理或混合部署的组织；
+- 希望建立生产力产品合作的设备与渠道伙伴。
 
-- 希望使用更简单办公套件的个人用户；
-- 学生、创作者和自由职业者；
-- 需要熟悉办公体验的小团队；
-- 希望探索本地/私有文档智能的组织；
-- 教育、设备和渠道合作伙伴。
+### 商业路径
 
-### 商业方向
+免费核心体验 → 高频使用 → 用户关系 → 智能辅助 → 团队工作流 → 企业部署 → 更深生态使用。
 
-未来可以形成免费基础办公、高级智能功能、团队/商业版、企业私有部署、教育计划、OEM/设备分发及文档工作流集成等模式。
+可探索免费基础版、个人高级版、团队版、企业版、私有/混合部署、OEM/渠道合作和未来 Agent 工作流扩展。
 
-### 战略价值
-
-办公软件具有高频使用和长期留存特点。对于 KING AI 来说，KINGAI Office 可以成为记忆、知识与智能辅助真正进入日常文件和工作流程的重要入口。
-
-以上为商业发展方向，不代表已经取得对应收入、客户规模或市场领先地位。
-
-联系：**vip@kingai.work**
+KINGAI Office 首先必须因为“办公本身好用”而被选择，AI 的作用是把这个产品变得更强，而不是替代产品价值本身。
