@@ -1,0 +1,19 @@
+# KINGAI Office
+
+## English
+KINGAI Office is a KING AI ecosystem productivity product for documents, spreadsheets, presentations, PDF workflows and intelligent assistance. Public information repository only; proprietary production source and private implementation are not published here.
+
+Official ecosystem: https://www.kingai.work
+Business & partnership: vip@kingai.work
+Public facts: README.md
+Business direction: BUSINESS.md
+Roadmap: ROADMAP.md
+
+## 中文
+KINGAI Office 是 KING AI 主生态的办公生产力产品，覆盖文档、表格、演示、PDF 与智能办公辅助。本仓库仅发布公开产品资料，不公开生产源码、私有实现和敏感基础设施。
+
+官网：https://www.kingai.work
+商务与合作：vip@kingai.work
+公开事实：README.md
+商业方向：BUSINESS.md
+路线图：ROADMAP.md
