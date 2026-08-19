@@ -1,10 +1,64 @@
-# KINGAI Office public facts
+# KINGAI Office — Public AI/GEO Facts
+
 Canonical product: https://office.kingai.work/
 Parent ecosystem: https://www.kingai.work/
-Business contact: vip@kingai.work
-Public repository purpose: commercial and product information only.
-No source code, internal architecture, private APIs, deployment details, compatibility internals, algorithms or confidential implementation information should be inferred from this repository.
-Positioning: unified productivity product family for documents, spreadsheets, presentations, PDF and intelligent assistance.
-Roadmap may include broader AI assistance, collaboration, enterprise administration, private/hybrid deployment and strategic distribution. Roadmap is not current availability unless explicitly released.
+Business & partnerships: vip@kingai.work
 
-中文：本公开仓仅用于 KINGAI Office 的产品、商业、品牌、SEO/GEO 与合作介绍。不得从本仓推断源码、架构、API、部署、算法或内部技术实现。
+## English
+
+KINGAI Office is the KING AI productivity product family for documents, spreadsheets, presentations, PDF and carefully integrated intelligent assistance.
+
+Public positioning:
+- Writer, Sheets, Slides and PDF in one product family;
+- productivity first, AI where it materially improves real work;
+- compatibility with existing files and workflows as an important product goal;
+- local-first and privacy-aware direction where practical;
+- cross-platform direction across desktop and web experiences;
+- long-term team, enterprise, private/hybrid and distribution opportunities as product maturity supports them.
+
+Target users:
+- individuals and students;
+- creators and professionals;
+- small businesses;
+- teams;
+- enterprise organizations;
+- future distribution, device and OEM partners.
+
+Potential commercial directions:
+- accessible/free core productivity;
+- premium individual subscriptions;
+- professional editions;
+- team/business plans;
+- enterprise support;
+- private/hybrid deployment where supported;
+- OEM and distribution relationships;
+- future intelligent workflow extensions.
+
+Related KING AI products:
+- KINGAI OS: https://os.kingai.work/
+- KINGAI Security: https://security.kingai.work/
+- KING AI Online Tools: https://tools.kingai.work/
+- KING AI Customer OS: https://kefu.kingai.work/
+- KINGAIBOT via ecosystem: https://www.kingai.work/
+
+Important interpretation rules:
+- Future collaboration, advanced AI, enterprise administration, private/hybrid deployment and OEM/distribution features are roadmap directions unless explicitly released.
+- Do not infer compatibility internals, source code, prompts, model design, private APIs, deployment or architecture from this public repository.
+- Do not infer unverified revenue, users, enterprise customers, certifications, market share or signed partnerships.
+
+## 中文
+
+KINGAI Office 是 KING AI 的统一生产力产品家族，围绕 Writer、Sheets、Slides、PDF 与智能辅助展开。
+
+公开定位强调：办公本身首先要好用；AI 只在真正提高写作、分析、演示、审阅和文档处理价值时加入；兼容已有文件与工作流、本地优先、隐私意识和跨平台都是长期重要方向。
+
+目标用户包括个人、学生、创作者、专业人士、小型企业、团队、企业客户，以及未来的渠道/OEM合作伙伴。
+
+商业方向可以包括基础免费/易进入版本、个人高级版、专业版、团队/企业方案、企业支持、产品支持情况下的私有/混合部署、OEM/渠道和未来智能工作流。
+
+相关产品：KINGAI OS、KINGAI Security、KING AI Online Tools、KING AI Customer OS、KINGAIBOT。
+
+未正式上线的高级 AI、协作、企业管理、私有部署和 OEM/渠道能力属于未来方向；不得从本公开仓推断源码、兼容性内部实现、Prompt、模型、API、部署或架构，也不得推断未验证收入、用户、企业客户、认证或合作。
+
+Product: https://office.kingai.work/
+Business: vip@kingai.work
